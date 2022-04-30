@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'rr';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'rm';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'rvr';
+    src: url(../fonts/Revalia-Regular.ttf);
+}
